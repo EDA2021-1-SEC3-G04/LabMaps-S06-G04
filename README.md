@@ -1,5 +1,11 @@
 #ISIS1225 - Estructura de un proyecto
 
+
+## Nombres
+Valentina Calderon - 202020771 - v.calderonm@uniandes.edu.co
+
+Maria Castro - 202020850 - m.castroi@uniades.edu.co
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
